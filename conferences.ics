@@ -1,0 +1,347 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Global Conference Radar//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:siggraph-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260724
+SUMMARY:SIGGRAPH 2026
+LOCATION:Los Angeles Convention Center\, Los Angeles\, United States
+URL:https://s2026.siggraph.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:black-hat-usa-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260807
+SUMMARY:Black Hat USA 2026
+LOCATION:Mandalay Bay Convention Center\, Las Vegas\, United States
+URL:https://www.blackhat.com/us-26/
+END:VEVENT
+BEGIN:VEVENT
+UID:kdd-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260814
+SUMMARY:ACM KDD 2026
+LOCATION:International Convention Center Jeju\, Jeju\, South Korea
+URL:https://kdd2026.kdd.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:world-robot-conference-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260824
+SUMMARY:World Robot Conference 2026
+LOCATION:Not announced\, Beijing\, China
+URL:https://www.worldrobotconference.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:hicool-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260830
+SUMMARY:HICOOL Global Entrepreneur Summit 2026
+LOCATION:Not announced\, Beijing\, China
+URL:https://www.hicool.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:semicon-taiwan-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260905
+SUMMARY:SEMICON Taiwan 2026
+LOCATION:TaiNEX 1 & 2\, Taipei\, Taiwan
+URL:https://www.semicontaiwan.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:dreamforce-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260918
+SUMMARY:Dreamforce 2026
+LOCATION:Moscone Center\, San Francisco\, United States
+URL:https://www.salesforce.com/dreamforce/
+END:VEVENT
+BEGIN:VEVENT
+UID:humanx-emea-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260925
+SUMMARY:HumanX EMEA 2026
+LOCATION:RAI Amsterdam\, Amsterdam\, Netherlands
+URL:https://www.humanx.co/eu
+END:VEVENT
+BEGIN:VEVENT
+UID:world-summit-ai-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261009
+SUMMARY:World Summit AI Amsterdam 2026
+LOCATION:Taets Art & Event Park\, Amsterdam\, Netherlands
+URL:https://worldsummit.ai/
+END:VEVENT
+BEGIN:VEVENT
+UID:techcrunch-disrupt-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261016
+SUMMARY:TechCrunch Disrupt 2026
+LOCATION:Moscone West\, San Francisco\, United States
+URL:https://techcrunch.com/events/techcrunch-disrupt/
+END:VEVENT
+BEGIN:VEVENT
+UID:nvidia-gtc-berlin-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261023
+SUMMARY:NVIDIA GTC Berlin 2026
+LOCATION:Not announced\, Berlin\, Germany
+URL:https://www.nvidia.com/gtc/events/
+END:VEVENT
+BEGIN:VEVENT
+UID:emnlp-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261030
+SUMMARY:EMNLP 2026
+LOCATION:Not announced\, Budapest\, Hungary
+URL:https://2026.emnlp.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:corl-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+SUMMARY:Conference on Robot Learning 2026
+LOCATION:JW Marriott Austin\, Austin\, United States
+URL:https://www.corl.org/home
+END:VEVENT
+BEGIN:VEVENT
+UID:web-summit-lisbon-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261113
+SUMMARY:Web Summit Lisbon 2026
+LOCATION:MEO Arena and FIL\, Lisbon\, Portugal
+URL:https://websummit.com/web-summit-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:africa-tech-festival-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+SUMMARY:Africa Tech Festival 2026
+LOCATION:Cape Town International Convention Centre\, Cape Town\, South Africa
+URL:https://africatechfestival.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:microsoft-ignite-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261121
+SUMMARY:Microsoft Ignite 2026
+LOCATION:Moscone Center\, San Francisco\, United States
+URL:https://ignite.microsoft.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:singapore-fintech-festival-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261121
+SUMMARY:Singapore FinTech Festival 2026
+LOCATION:Singapore EXPO\, Singapore\, Singapore
+URL:https://www.fintechfestival.sg/
+END:VEVENT
+BEGIN:VEVENT
+UID:slush-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261120
+SUMMARY:Slush 2026
+LOCATION:Helsinki Expo and Convention Centre (Messukeskus)\, Helsinki\, Finland
+URL:https://slush.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:aws-reinvent-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261205
+SUMMARY:AWS re:Invent 2026
+LOCATION:Multiple Las Vegas venues\, Las Vegas\, United States
+URL:https://aws.amazon.com/events/reinvent/
+END:VEVENT
+BEGIN:VEVENT
+UID:neurips-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261213
+SUMMARY:NeurIPS 2026
+LOCATION:Not announced\, Sydney\, Australia
+URL:https://neurips.cc/
+END:VEVENT
+BEGIN:VEVENT
+UID:gitex-global-2026@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261212
+SUMMARY:GITEX GLOBAL 2026
+LOCATION:Dubai Exhibition Centre at Expo City Dubai\, Dubai\, United Arab Emirates
+URL:https://www.gitex.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:ces-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270110
+SUMMARY:CES 2027
+LOCATION:Las Vegas Convention Center and partner venues\, Las Vegas\, United States
+URL:https://www.ces.tech/
+END:VEVENT
+BEGIN:VEVENT
+UID:web-summit-qatar-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270204
+SUMMARY:Web Summit Qatar 2027
+LOCATION:Not announced\, Doha\, Qatar
+URL:https://qatar.websummit.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:aaai-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270224
+SUMMARY:AAAI-27
+LOCATION:Not announced\, Montreal\, Canada
+URL:https://aaai.org/conference/aaai/aaai-27/
+END:VEVENT
+BEGIN:VEVENT
+UID:mwc-barcelona-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270301
+DTEND;VALUE=DATE:20270305
+SUMMARY:MWC Barcelona 2027
+LOCATION:Fira Gran Via\, Barcelona\, Spain
+URL:https://www.mwcbarcelona.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:humanx-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270311
+SUMMARY:HumanX 2027
+LOCATION:Not announced\, Las Vegas\, United States
+URL:https://www.humanx.co/us
+END:VEVENT
+BEGIN:VEVENT
+UID:nvidia-gtc-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270319
+SUMMARY:NVIDIA GTC 2027
+LOCATION:San Jose McEnery Convention Center and downtown venues\, San Jose\, United States
+URL:https://www.nvidia.com/gtc/
+END:VEVENT
+BEGIN:VEVENT
+UID:sxsw-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270322
+SUMMARY:SXSW Conference & Festivals 2027
+LOCATION:Downtown Austin venues\, Austin\, United States
+URL:https://sxsw.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:hannover-messe-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270409
+SUMMARY:HANNOVER MESSE 2027
+LOCATION:Hannover Exhibition Grounds\, Hannover\, Germany
+URL:https://www.hannovermesse.de/
+END:VEVENT
+BEGIN:VEVENT
+UID:auto-shanghai-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270503
+SUMMARY:Auto Shanghai 2027
+LOCATION:National Exhibition and Convention Center\, Shanghai\, China
+URL:https://www.autoshanghai.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:icra-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270529
+SUMMARY:IEEE ICRA 2027
+LOCATION:Not announced\, Seoul\, South Korea
+URL:https://2027.ieee-icra.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:web-summit-vancouver-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270529
+SUMMARY:Web Summit Vancouver 2027
+LOCATION:Vancouver Convention Centre\, Vancouver\, Canada
+URL:https://vancouver.websummit.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:atxsg-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270529
+SUMMARY:Asia Tech x Singapore 2027
+LOCATION:Capella Singapore and Singapore EXPO\, Singapore\, Singapore
+URL:https://asiatechxsg.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:snowflake-summit-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270611
+SUMMARY:Snowflake Summit 27
+LOCATION:Not announced\, San Francisco\, United States
+URL:https://www.snowflake.com/en/summit/
+END:VEVENT
+BEGIN:VEVENT
+UID:ai-summit-london-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270611
+SUMMARY:The AI Summit London 2027
+LOCATION:Not announced\, London\, United Kingdom
+URL:https://london.theaisummit.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:vivatech-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270620
+SUMMARY:Viva Technology 2027
+LOCATION:Paris Expo Porte de Versailles\, Paris\, France
+URL:https://vivatech.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:data-ai-summit-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270625
+SUMMARY:Databricks Data + AI Summit 2027
+LOCATION:Not announced\, San Francisco\, United States
+URL:https://www.databricks.com/dataaisummit
+END:VEVENT
+BEGIN:VEVENT
+UID:mwc-shanghai-2027@global-conference-radar
+DTSTAMP:20260717T014514Z
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270626
+SUMMARY:MWC Shanghai 2027
+LOCATION:Shanghai New International Expo Centre\, Shanghai\, China
+URL:https://www.mwcshanghai.cn/
+END:VEVENT
+END:VCALENDAR
