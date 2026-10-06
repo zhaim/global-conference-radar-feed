@@ -4,7 +4,7 @@ PRODID:-//Global Conference Radar//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:colm-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261006
 DTEND;VALUE=DATE:20261010
 SUMMARY:Conference on Language Modeling (COLM) 2026
@@ -13,7 +13,7 @@ URL:https://colmweb.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:world-summit-ai-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261009
 SUMMARY:World Summit AI Amsterdam 2026
@@ -21,8 +21,17 @@ LOCATION:Taets Art & Event Park\, Amsterdam\, Netherlands
 URL:https://worldsummit.ai/
 END:VEVENT
 BEGIN:VEVENT
+UID:ai-founder-vc-dinner-sf-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:AI Founder/VC Dinner
+LOCATION:Mission\, San Francisco\, United States
+URL:https://www.tech-week.com/calendar/sf/events/ai-founder-vc-dinner-988d8b48-0cb1-43be-b8db-d27fcf6e81ae
+END:VEVENT
+BEGIN:VEVENT
 UID:agents-atoms-allocators-sf-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Agents\, Atoms\, Allocators #SF Tech Week
@@ -31,52 +40,79 @@ URL:https://opensourcesf.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmerhale-high-growth-sf-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
 SUMMARY:Building and Scaling High Growth Companies
-LOCATION:Embarcadero\, San Francisco\, US
+LOCATION:Waterbar\, Embarcadero\, San Francisco\, United States
 URL:https://www.tech-week.com/calendar/sf/events/building-and-scaling-high-growth-companies-12258871-018d-4101-a886-983b8b756ede
 END:VEVENT
 BEGIN:VEVENT
 UID:cxo-roundtable-enterprise-ai-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:CxO Roundtable: How Enterprise Really Buys AI
-LOCATION:Jackson Square\, San Francisco\, US
+LOCATION:Jackson Square\, San Francisco\, United States
 URL:https://www.tech-week.com/calendar/sf/events/cxo-roundtable-how-enterprise-really-buys-ai-8b52cd7a-ec16-4488-aa5a-a8c0707e6ffd
 END:VEVENT
 BEGIN:VEVENT
 UID:fenwick-databricks-a16z-happy-hour-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261009
 SUMMARY:Fenwick × Databricks × a16z Founders & Investors Happy Hour
-LOCATION:FiDi\, San Francisco\, US
+LOCATION:FiDi\, San Francisco\, United States
 URL:https://www.tech-week.com/calendar/sf/events/fenwick-databricks-a16z-founders-and-investors-happy-hour-eb1357e8-0695-4a80-ad8c-20b80c4f1793
 END:VEVENT
 BEGIN:VEVENT
-UID:fund-or-fold-sf-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+UID:founder-investor-day-finix-sf-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261009
+SUMMARY:Founder Investor Day at Finix HQ
+LOCATION:Union Square\, San Francisco\, United States
+URL:https://www.tech-week.com/calendar/sf/events/founder-investor-day-at-finix-hq-52588511-b529-465e-bf96-dd48022966c5
+END:VEVENT
+BEGIN:VEVENT
+UID:foundry-demo-day-sf-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Foundry Demo Day
+LOCATION:Mission\, San Francisco\, United States
+URL:https://www.tech-week.com/calendar/sf/events/foundry-demo-day-195254bb-5efc-496e-8623-0cd7932c0c1d
+END:VEVENT
+BEGIN:VEVENT
+UID:fund-or-fold-sf-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
 SUMMARY:Fund or Fold - How VCs Actually Decide
-LOCATION:South Beach\, San Francisco\, US
+LOCATION:South Beach\, San Francisco\, United States
 URL:https://www.tech-week.com/calendar/sf/events/fund-or-fold-how-vcs-actually-decide-1c8269fe-6273-4abb-bbae-6e7ae25f1e44
 END:VEVENT
 BEGIN:VEVENT
+UID:founders-bay-funders-founders-mixer-sf-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Funders & Founders Mixer
+LOCATION:Marina\, San Francisco\, United States
+URL:https://www.tech-week.com/calendar/sf/events/funders-and-founders-mixer-1783552f-6f3a-4d16-8f55-f1168c579176
+END:VEVENT
+BEGIN:VEVENT
 UID:durable-advantage-ai-sf-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:The Search for Durable Advantage in AI
-LOCATION:FiDi\, San Francisco\, US
+LOCATION:Financial District\, San Francisco\, United States
 URL:https://www.tech-week.com/calendar/sf/events/the-search-for-durable-advantage-in-ai-0f49b20f-71d2-4605-918a-f8ae7acf4dee
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-frontier-summit-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:AI Frontier Summit 2026
@@ -85,25 +121,25 @@ URL:https://www.tech-week.com/calendar/sf/events/ai-frontier-summit-intelligence
 END:VEVENT
 BEGIN:VEVENT
 UID:tech-week-flyover-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:The Tech Week Flyover
-LOCATION:SOMA\, San Francisco\, US
+LOCATION:Kaiyo Rooftop\, SOMA\, San Francisco\, United States
 URL:https://www.tech-week.com/calendar/sf/events/the-tech-week-flyover-74261731-764b-4b92-acd7-58e1ad592acb
 END:VEVENT
 BEGIN:VEVENT
 UID:a16z-speedrun-ai-faire-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261010
 SUMMARY:a16z speedrun AI Faire
-LOCATION:Jackson Square\, San Francisco\, US
+LOCATION:Jackson Square\, San Francisco\, United States
 URL:https://www.tech-week.com/calendar/sf/events/a16z-speedrun-ai-faire-70750ac4-237e-42a9-9b03-f9589abdae34
 END:VEVENT
 BEGIN:VEVENT
 UID:alignment-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY:Alignment 2026
@@ -112,25 +148,25 @@ URL:https://www.sv101.net/
 END:VEVENT
 BEGIN:VEVENT
 UID:gcsx-sf-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261011
 SUMMARY:GCSx SF 2026
-LOCATION:Downtown\, San Francisco\, US
+LOCATION:Downtown\, San Francisco\, United States
 URL:https://www.tech-week.com/calendar/sf/events/gcsx-sf-2026-68527b84-fac7-4d1f-9b5d-9a78e57097aa
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-meets-real-world-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:AI Meets the Real World: Founder & Investor Mixer
-LOCATION:Santa Monica\, Los Angeles\, US
+LOCATION:Santa Monica\, Santa Monica\, United States
 URL:https://www.tech-week.com/calendar/la/events/ai-meets-the-real-world-founder-and-investor-mixer-febe3336-a249-4f94-99cd-bbc508223804
 END:VEVENT
 BEGIN:VEVENT
 UID:ocp-global-summit-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261016
 SUMMARY:OCP Global Summit 2026
@@ -139,7 +175,7 @@ URL:https://www.opencompute.org/summit/global-summit
 END:VEVENT
 BEGIN:VEVENT
 UID:sv-ai-tech-investing-summit-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Silicon Valley AI/Tech Investing Summit 2026
@@ -148,34 +184,61 @@ URL:https://luma.com/angellaunchoct12
 END:VEVENT
 BEGIN:VEVENT
 UID:a16z-tech-week-kickoff-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
 SUMMARY:The Official a16z Tech Week Kickoff by HSBC and Fenwick
-LOCATION:Santa Monica\, Los Angeles\, US
+LOCATION:Santa Monica\, Santa Monica\, United States
 URL:https://www.tech-week.com/calendar/la/events/the-official-a16z-tech-week-kickoff-by-hsbc-and-fenwick-bd4905fd-1223-4b6d-8285-65a3e771333f
 END:VEVENT
 BEGIN:VEVENT
+UID:la-face-to-face-investors-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:2026 Face to Face with Investors
+LOCATION:Westwood / UCLA\, Los Angeles\, United States
+URL:https://www.tech-week.com/calendar/la/events/2026-face-to-face-with-investors-89f150f9-732d-45e7-b69a-5c0f686a6480
+END:VEVENT
+BEGIN:VEVENT
+UID:building-in-la-slauson-jpmorgan-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Building in LA
+LOCATION:Windsor Hills\, Los Angeles\, United States
+URL:https://www.tech-week.com/calendar/la/events/building-in-la-4904cecb-bb06-462b-9c78-4b756f396fa1
+END:VEVENT
+BEGIN:VEVENT
 UID:la-early-stage-investor-brunch-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Early Stage Investor Brunch
-LOCATION:Santa Monica\, Los Angeles\, US
+LOCATION:Santa Monica\, Santa Monica\, United States
 URL:https://www.tech-week.com/calendar/la/events/early-stage-investor-brunch-29aee4d1-c09d-4fc8-b4f4-eaf749df4e66
 END:VEVENT
 BEGIN:VEVENT
 UID:la-tech-week-b2b-founders-funders-breakfast-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Early-Stage B2B Tech Founders & Funders Breakfast
-LOCATION:Santa Monica\, Los Angeles\, US
+LOCATION:Santa Monica (exact venue provided after approval)\, Santa Monica\, United States
 URL:https://www.tech-week.com/calendar/la/events/early-stage-b2b-tech-founders-and-funders-breakfast-7f08ddbf-a3ce-4585-a148-976bc722619f
 END:VEVENT
 BEGIN:VEVENT
+UID:la-founders-funders-vc-reverse-pitch-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Founders & Funders: VC Reverse Pitch
+LOCATION:Santa Monica\, Los Angeles\, United States
+URL:https://www.tech-week.com/calendar/la/events/founders-and-funders-vc-reverse-pitch-439b600c-289b-44b0-bc5d-756e2582a7ec
+END:VEVENT
+BEGIN:VEVENT
 UID:pinecone-agentic-ai-meetup-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Pinecone LA Agentic AI Meetup
@@ -184,79 +247,88 @@ URL:https://www.tech-week.com/calendar/la/events/pinecone-la-agentic-ai-meetup
 END:VEVENT
 BEGIN:VEVENT
 UID:pitch-on-tap-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:Pitch on Tap: Happy Hour with VCs and their AI personas
-LOCATION:Santa Monica\, Los Angeles\, US
+LOCATION:Santa Monica\, Santa Monica\, United States
 URL:https://www.tech-week.com/calendar/la/events/pitch-on-tap-happy-hour-with-vcs-and-their-ai-personas-la-techweek-ad67cbe0-bc00-4b9c-acdf-de62e79d2f67
 END:VEVENT
 BEGIN:VEVENT
 UID:pitchlive-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
 SUMMARY:PitchLive.LA
-LOCATION:Venice\, Los Angeles\, US
+LOCATION:Venice\, Los Angeles\, United States
 URL:https://www.tech-week.com/calendar/la/events/pitchlive-la-2c4ada73-f7ad-40a4-80ea-bad75cdd5009
 END:VEVENT
 BEGIN:VEVENT
 UID:founder-funder-spikeball-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:founder funder SPIKEBALL slam
-LOCATION:Santa Monica\, Los Angeles\, US
+LOCATION:Santa Monica Beach near Sorrento Beach and Lot 8\, Santa Monica\, United States
 URL:https://www.tech-week.com/calendar/la/events/founder-funder-spikeball-slam-45b72883-ac45-4c51-89a8-3b9e05db4683
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-native-services-summit-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:AI-Native Services Summit with Fika and Emergence
-LOCATION:Culver City\, Los Angeles\, US
+LOCATION:Culver City\, Los Angeles\, United States
 URL:https://www.tech-week.com/calendar/la/events/ai-native-services-summit-with-fika-and-emergence-40258c8e-1a1f-4451-bd26-d4ab4a72c326
 END:VEVENT
 BEGIN:VEVENT
 UID:drinks-data-ai-happy-hour-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
 SUMMARY:Drinks & Data: An AI Happy Hour
-LOCATION:Venice\, Los Angeles\, US
+LOCATION:Venice\, Los Angeles\, United States
 URL:https://www.tech-week.com/calendar/la/events/drinks-and-data-an-ai-happy-hour-79f7463c-b07a-4dbf-92c7-b2710d522400
 END:VEVENT
 BEGIN:VEVENT
+UID:fundrise-ai-founders-investors-dinner-la-2026@global-conference-radar
+DTSTAMP:20261006T172501Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Investing in 2026: Dinner with Founders & Investors
+LOCATION:Venice\, Los Angeles\, United States
+URL:https://www.tech-week.com/calendar/la/events/investing-in-2026-dinner-with-founders-and-investors-cf82cfcc-d028-4b18-8567-0f440577b1c1
+END:VEVENT
+BEGIN:VEVENT
 UID:pitch4capital-funding-day-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Pitch4Capital.com Funding Day — Founder Investor Mixer
-LOCATION:Culver City\, Los Angeles\, US
+LOCATION:Culver City\, Los Angeles\, United States
 URL:https://www.tech-week.com/calendar/la/events/pitch4capital-com-funding-day-founder-investor-mixer-55b76caf-2ce2-4e15-89d6-d47d8e85d1e0
 END:VEVENT
 BEGIN:VEVENT
 UID:visionary-edge-agentic-architecture-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:The Visionary Edge: 10x Thinking and Agentic Architecture
-LOCATION:Venice\, Los Angeles\, US
+LOCATION:Venice\, Los Angeles\, United States
 URL:https://www.tech-week.com/calendar/la/events/the-visionary-edge-10x-thinking-and-agentic-architecture-91964c4e-43d6-4a6b-b92b-ca6a3e5bb73f
 END:VEVENT
 BEGIN:VEVENT
 UID:antler-first-funding-la-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261016
 SUMMARY:Figuring out First Funding
-LOCATION:Brentwood\, Los Angeles\, US
+LOCATION:Brentwood\, Los Angeles\, United States
 URL:https://www.tech-week.com/calendar/la/events/figuring-out-first-funding-a5f711d6-e0f1-474d-8375-b225577b6dd2
 END:VEVENT
 BEGIN:VEVENT
 UID:nvidia-gtc-berlin-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261023
 SUMMARY:NVIDIA GTC Berlin 2026
@@ -265,7 +337,7 @@ URL:https://www.nvidia.com/gtc/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:emnlp-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261030
 SUMMARY:EMNLP 2026
@@ -274,7 +346,7 @@ URL:https://2026.emnlp.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:odsc-ai-west-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261030
 SUMMARY:ODSC AI West 2026
@@ -283,7 +355,7 @@ URL:https://odsc.ai/west/
 END:VEVENT
 BEGIN:VEVENT
 UID:github-universe-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261030
 SUMMARY:GitHub Universe 2026
@@ -292,7 +364,7 @@ URL:https://githubuniverse.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:corl-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:Conference on Robot Learning 2026
@@ -301,7 +373,7 @@ URL:https://www.corl.org/home
 END:VEVENT
 BEGIN:VEVENT
 UID:kubecon-na-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:KubeCon + CloudNativeCon North America 2026
@@ -310,7 +382,7 @@ URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-lisbon-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:Web Summit Lisbon 2026
@@ -319,7 +391,7 @@ URL:https://websummit.com/web-summit-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-angel-conference-30-demo-day-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Seattle Angel Conference 30 Final Demo Day
@@ -328,7 +400,7 @@ URL:https://seattleangelconference.com/attend-the-conference/
 END:VEVENT
 BEGIN:VEVENT
 UID:africa-tech-festival-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261120
 SUMMARY:Africa Tech Festival 2026
@@ -337,7 +409,7 @@ URL:https://africatechfestival.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:microsoft-ignite-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
 SUMMARY:Microsoft Ignite 2026
@@ -346,7 +418,7 @@ URL:https://ignite.microsoft.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-fintech-festival-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261121
 SUMMARY:Singapore FinTech Festival 2026
@@ -355,7 +427,7 @@ URL:https://www.fintechfestival.sg/
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:Slush 2026
@@ -364,7 +436,7 @@ URL:https://slush.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:aws-reinvent-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 SUMMARY:AWS re:Invent 2026
@@ -373,7 +445,7 @@ URL:https://aws.amazon.com/events/reinvent/
 END:VEVENT
 BEGIN:VEVENT
 UID:neurips-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261213
 SUMMARY:NeurIPS 2026
@@ -382,7 +454,7 @@ URL:https://neurips.cc/
 END:VEVENT
 BEGIN:VEVENT
 UID:gitex-global-2026@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:GITEX GLOBAL 2026
@@ -391,7 +463,7 @@ URL:https://www.gitex.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:ces-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270110
 SUMMARY:CES 2027
@@ -400,7 +472,7 @@ URL:https://www.ces.tech/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-qatar-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270204
 SUMMARY:Web Summit Qatar 2027
@@ -409,7 +481,7 @@ URL:https://qatar.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:aaai-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270224
 SUMMARY:AAAI-27
@@ -418,7 +490,7 @@ URL:https://aaai.org/conference/aaai/aaai-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:mwc-barcelona-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
 SUMMARY:MWC Barcelona 2027
@@ -427,7 +499,7 @@ URL:https://www.mwcbarcelona.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:humanx-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270311
 SUMMARY:HumanX 2027
@@ -436,7 +508,7 @@ URL:https://www.humanx.co/us
 END:VEVENT
 BEGIN:VEVENT
 UID:nvidia-gtc-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270319
 SUMMARY:NVIDIA GTC 2027
@@ -445,7 +517,7 @@ URL:https://www.nvidia.com/gtc/
 END:VEVENT
 BEGIN:VEVENT
 UID:sxsw-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270322
 SUMMARY:SXSW Conference & Festivals 2027
@@ -454,7 +526,7 @@ URL:https://sxsw.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:hannover-messe-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
 SUMMARY:HANNOVER MESSE 2027
@@ -463,7 +535,7 @@ URL:https://www.hannovermesse.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:google-cloud-next-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
 SUMMARY:Google Cloud Next 2027
@@ -472,7 +544,7 @@ URL:https://cloud.withgoogle.com/next
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-shanghai-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270503
 SUMMARY:Auto Shanghai 2027
@@ -481,7 +553,7 @@ URL:https://www.autoshanghai.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:saastr-annual-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270513
 SUMMARY:SaaStr Annual 2027
@@ -490,7 +562,7 @@ URL:https://www.saastrannual.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:icra-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
 SUMMARY:IEEE ICRA 2027
@@ -499,7 +571,7 @@ URL:https://2027.ieee-icra.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-vancouver-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270529
 SUMMARY:Web Summit Vancouver 2027
@@ -508,7 +580,7 @@ URL:https://vancouver.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:atxsg-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270529
 SUMMARY:Asia Tech x Singapore 2027
@@ -517,7 +589,7 @@ URL:https://asiatechxsg.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:snowflake-summit-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270611
 SUMMARY:Snowflake Summit 27
@@ -526,7 +598,7 @@ URL:https://www.snowflake.com/en/summit/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-rio-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270618
 SUMMARY:Web Summit Rio 2027
@@ -535,7 +607,7 @@ URL:https://rio.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:vivatech-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270620
 SUMMARY:Viva Technology 2027
@@ -544,7 +616,7 @@ URL:https://vivatech.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:data-ai-summit-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270625
 SUMMARY:Databricks Data + AI Summit 2027
@@ -553,7 +625,7 @@ URL:https://www.databricks.com/dataaisummit
 END:VEVENT
 BEGIN:VEVENT
 UID:mwc-shanghai-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270626
 SUMMARY:MWC Shanghai 2027
@@ -562,7 +634,7 @@ URL:https://www.mwcshanghai.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-engineer-worlds-fair-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270703
 SUMMARY:AI Engineer World's Fair 2027
@@ -571,7 +643,7 @@ URL:https://www.ai.engineer/worldsfair
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-2027@global-conference-radar
-DTSTAMP:20261006T165457Z
+DTSTAMP:20261006T172501Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270712
 SUMMARY:Robotics Science and Systems 2027
