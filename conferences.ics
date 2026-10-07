@@ -3,651 +3,836 @@ VERSION:2.0
 PRODID:-//Global Conference Radar//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:colm-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261010
-SUMMARY:Conference on Language Modeling (COLM) 2026
-LOCATION:Hilton San Francisco Union Square\, San Francisco\, United States
-URL:https://colmweb.org/
-END:VEVENT
-BEGIN:VEVENT
 UID:world-summit-ai-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261009
 SUMMARY:World Summit AI Amsterdam 2026
 LOCATION:Taets Art & Event Park\, Amsterdam\, Netherlands
 URL:https://worldsummit.ai/
+DESCRIPTION:活动详情 / 报名入口: https://worldsummit.ai/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-founder-vc-dinner-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:AI Founder/VC Dinner
 LOCATION:Mission\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/ai-founder-vc-dinner-988d8b48-0cb1-43be-b8db-d27fcf6e81ae
+URL:https://www.tech-week.com/calendar/sf/events/ai-founder-vc-dinner-988d8
+ b48-0cb1-43be-b8db-d27fcf6e81ae
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/ai-founder-vc-dinner-988d8b48-0cb1-43be-b8db-d27fcf6e81ae\n活
+ 动时间（按活动页面标注）: 5:00–8:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:agents-atoms-allocators-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Agents\, Atoms\, Allocators #SF Tech Week
-LOCATION:Temple San Francisco\, 540 Howard St\, San Francisco\, United States
-URL:https://opensourcesf.com/
+LOCATION:Temple San Francisco\, 540 Howard St\, San Francisco\, United Stat
+ es
+URL:https://partiful.com/e/E7z9iVlW6rypfzUjP81j
+DESCRIPTION:活动详情: https://opensourcesf.com/\n报名/RSVP: https://p
+ artiful.com/e/E7z9iVlW6rypfzUjP81j\n活动时间（按活动页面标注
+ ）: 5:00–10:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:wilmerhale-high-growth-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Building and Scaling High Growth Companies
 LOCATION:Waterbar\, Embarcadero\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/building-and-scaling-high-growth-companies-12258871-018d-4101-a886-983b8b756ede
+URL:https://www.tech-week.com/calendar/sf/events/building-and-scaling-high-
+ growth-companies-12258871-018d-4101-a886-983b8b756ede
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/building-and-scaling-high-growth-companies-12258871-018d-4101-a
+ 886-983b8b756ede\n活动时间（按活动页面标注）: 5:30–8:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:cxo-roundtable-enterprise-ai-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:CxO Roundtable: How Enterprise Really Buys AI
 LOCATION:Jackson Square\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/cxo-roundtable-how-enterprise-really-buys-ai-8b52cd7a-ec16-4488-aa5a-a8c0707e6ffd
+URL:https://www.tech-week.com/calendar/sf/events/cxo-roundtable-how-enterpr
+ ise-really-buys-ai-8b52cd7a-ec16-4488-aa5a-a8c0707e6ffd
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/cxo-roundtable-how-enterprise-really-buys-ai-8b52cd7a-ec16-4488
+ -aa5a-a8c0707e6ffd\n活动时间（按活动页面标注）: 9:00–11:30
+  AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:fenwick-databricks-a16z-happy-hour-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Fenwick × Databricks × a16z Founders & Investors Happy Hour
 LOCATION:FiDi\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/fenwick-databricks-a16z-founders-and-investors-happy-hour-eb1357e8-0695-4a80-ad8c-20b80c4f1793
+URL:https://partiful.com/e/cpZOouiK83s6U6J2CKjO
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/sf/events/fenw
+ ick-databricks-a16z-founders-and-investors-happy-hour-eb1357e8-0695-4a80-a
+ d8c-20b80c4f1793\n报名/RSVP: https://partiful.com/e/cpZOouiK83s6U6J2CKjO
+ \n活动时间（按活动页面标注）: 4:00–6:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:founder-investor-day-finix-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Founder Investor Day at Finix HQ
 LOCATION:Union Square\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/founder-investor-day-at-finix-hq-52588511-b529-465e-bf96-dd48022966c5
+URL:https://www.tech-week.com/calendar/sf/events/founder-investor-day-at-fi
+ nix-hq-52588511-b529-465e-bf96-dd48022966c5
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/founder-investor-day-at-finix-hq-52588511-b529-465e-bf96-dd4802
+ 2966c5\n活动时间（按活动页面标注）: 10:00 AM–7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:foundry-demo-day-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Foundry Demo Day
 LOCATION:Mission\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/foundry-demo-day-195254bb-5efc-496e-8623-0cd7932c0c1d
+URL:https://www.tech-week.com/calendar/sf/events/foundry-demo-day-195254bb-
+ 5efc-496e-8623-0cd7932c0c1d
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/foundry-demo-day-195254bb-5efc-496e-8623-0cd7932c0c1d\n活动
+ 时间（按活动页面标注）: 5:30–8:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:fund-or-fold-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Fund or Fold - How VCs Actually Decide
 LOCATION:South Beach\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/fund-or-fold-how-vcs-actually-decide-1c8269fe-6273-4abb-bbae-6e7ae25f1e44
+URL:https://www.tech-week.com/calendar/sf/events/fund-or-fold-how-vcs-actua
+ lly-decide-1c8269fe-6273-4abb-bbae-6e7ae25f1e44
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/fund-or-fold-how-vcs-actually-decide-1c8269fe-6273-4abb-bbae-6e
+ 7ae25f1e44\n活动时间（按活动页面标注）: 4:00–7:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:founders-bay-funders-founders-mixer-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:Funders & Founders Mixer
 LOCATION:Marina\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/funders-and-founders-mixer-1783552f-6f3a-4d16-8f55-f1168c579176
+URL:https://www.tech-week.com/calendar/sf/events/funders-and-founders-mixer
+ -1783552f-6f3a-4d16-8f55-f1168c579176
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/funders-and-founders-mixer-1783552f-6f3a-4d16-8f55-f1168c579176
+ \n活动时间（按活动页面标注）: 6:00–9:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:durable-advantage-ai-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
 SUMMARY:The Search for Durable Advantage in AI
 LOCATION:Financial District\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/the-search-for-durable-advantage-in-ai-0f49b20f-71d2-4605-918a-f8ae7acf4dee
+URL:https://www.tech-week.com/calendar/sf/events/the-search-for-durable-adv
+ antage-in-ai-0f49b20f-71d2-4605-918a-f8ae7acf4dee
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/the-search-for-durable-advantage-in-ai-0f49b20f-71d2-4605-918a-
+ f8ae7acf4dee\n活动时间（按活动页面标注）: 11:00 AM–2:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-frontier-summit-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:AI Frontier Summit 2026
 LOCATION:Not announced\, Mountain View\, United States
-URL:https://www.tech-week.com/calendar/sf/events/ai-frontier-summit-intelligence-at-scale-agents-physical-ai-and-chips-f80d7fc5-3487-4db6-b8b0-a413b9095506
+URL:https://partiful.com/e/yFLBq1ig9Mu3UXvAAc1X
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/sf/events/ai-f
+ rontier-summit-intelligence-at-scale-agents-physical-ai-and-chips-f80d7fc5
+ -3487-4db6-b8b0-a413b9095506\n报名/RSVP: https://partiful.com/e/yFLBq1ig
+ 9Mu3UXvAAc1X\n活动时间（按活动页面标注）: 10:30 AM–4:30 PM
+  PT
 END:VEVENT
 BEGIN:VEVENT
 UID:tech-week-flyover-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:The Tech Week Flyover
 LOCATION:Kaiyo Rooftop\, SOMA\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/the-tech-week-flyover-74261731-764b-4b92-acd7-58e1ad592acb
+URL:https://partiful.com/e/yvoeWd6BJMUB12yutJLl
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/sf/events/the-
+ tech-week-flyover-74261731-764b-4b92-acd7-58e1ad592acb\n报名/RSVP: https
+ ://partiful.com/e/yvoeWd6BJMUB12yutJLl\n活动时间（按活动页面标
+ 注）: 12:00–4:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:a16z-speedrun-ai-faire-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:a16z speedrun AI Faire
 LOCATION:Jackson Square\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/a16z-speedrun-ai-faire-70750ac4-237e-42a9-9b03-f9589abdae34
+URL:https://www.tech-week.com/calendar/sf/events/a16z-speedrun-ai-faire-707
+ 50ac4-237e-42a9-9b03-f9589abdae34
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/a16z-speedrun-ai-faire-70750ac4-237e-42a9-9b03-f9589abdae34\n
+ 活动时间（按活动页面标注）: 10:30 AM–5:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:alignment-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261012
 SUMMARY:Alignment 2026
 LOCATION:Plug and Play Tech Center\, Sunnyvale\, United States
-URL:https://www.sv101.net/
+URL:https://luma.com/alignment2026
+DESCRIPTION:活动详情: https://www.sv101.net/\n报名/RSVP: https://luma
+ .com/alignment2026
 END:VEVENT
 BEGIN:VEVENT
 UID:gcsx-sf-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261010
 DTEND;VALUE=DATE:20261011
 SUMMARY:GCSx SF 2026
 LOCATION:Downtown\, San Francisco\, United States
-URL:https://www.tech-week.com/calendar/sf/events/gcsx-sf-2026-68527b84-fac7-4d1f-9b5d-9a78e57097aa
+URL:https://www.tech-week.com/calendar/sf/events/gcsx-sf-2026-68527b84-fac7
+ -4d1f-9b5d-9a78e57097aa
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /sf/events/gcsx-sf-2026-68527b84-fac7-4d1f-9b5d-9a78e57097aa\n活动时间
+ （按活动页面标注）: 3:00–6:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-meets-real-world-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:AI Meets the Real World: Founder & Investor Mixer
 LOCATION:Santa Monica\, Santa Monica\, United States
-URL:https://www.tech-week.com/calendar/la/events/ai-meets-the-real-world-founder-and-investor-mixer-febe3336-a249-4f94-99cd-bbc508223804
+URL:https://www.tech-week.com/calendar/la/events/ai-meets-the-real-world-fo
+ under-and-investor-mixer-febe3336-a249-4f94-99cd-bbc508223804
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/ai-meets-the-real-world-founder-and-investor-mixer-febe3336-a24
+ 9-4f94-99cd-bbc508223804\n活动时间（按活动页面标注）: 2:00–
+ 4:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ocp-global-summit-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261016
 SUMMARY:OCP Global Summit 2026
 LOCATION:San Jose Convention Center\, San Jose\, United States
-URL:https://www.opencompute.org/summit/global-summit
+URL:https://www.opencompute.org/summit/global-summit/registration
+DESCRIPTION:活动详情: https://www.opencompute.org/summit/global-summit\
+ n报名/RSVP: https://www.opencompute.org/summit/global-summit/registratio
+ n
 END:VEVENT
 BEGIN:VEVENT
 UID:sv-ai-tech-investing-summit-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Silicon Valley AI/Tech Investing Summit 2026
 LOCATION:2490 Middlefield Rd\, Palo Alto\, US
 URL:https://luma.com/angellaunchoct12
+DESCRIPTION:活动详情 / 报名入口: https://luma.com/angellaunchoct12\
+ n活动时间（按活动页面标注）: 11:45 AM–6:30 PM UTC-07:00
 END:VEVENT
 BEGIN:VEVENT
 UID:a16z-tech-week-kickoff-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:The Official a16z Tech Week Kickoff by HSBC and Fenwick
 LOCATION:Santa Monica\, Santa Monica\, United States
-URL:https://www.tech-week.com/calendar/la/events/the-official-a16z-tech-week-kickoff-by-hsbc-and-fenwick-bd4905fd-1223-4b6d-8285-65a3e771333f
+URL:https://partiful.com/e/FrrOGVrvbMTKBK6U6Z7N
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/the-
+ official-a16z-tech-week-kickoff-by-hsbc-and-fenwick-bd4905fd-1223-4b6d-828
+ 5-65a3e771333f\n报名/RSVP: https://partiful.com/e/FrrOGVrvbMTKBK6U6Z7N\n
+ 活动时间（按活动页面标注）: 6:00–9:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:la-face-to-face-investors-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:2026 Face to Face with Investors
 LOCATION:Westwood / UCLA\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/2026-face-to-face-with-investors-89f150f9-732d-45e7-b69a-5c0f686a6480
+URL:https://www.tech-week.com/calendar/la/events/2026-face-to-face-with-inv
+ estors-89f150f9-732d-45e7-b69a-5c0f686a6480
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/2026-face-to-face-with-investors-89f150f9-732d-45e7-b69a-5c0f68
+ 6a6480\n活动时间（按活动页面标注）: 1:30–4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:building-in-la-slauson-jpmorgan-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Building in LA
 LOCATION:Windsor Hills\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/building-in-la-4904cecb-bb06-462b-9c78-4b756f396fa1
+URL:https://www.tech-week.com/calendar/la/events/building-in-la-4904cecb-bb
+ 06-462b-9c78-4b756f396fa1
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/building-in-la-4904cecb-bb06-462b-9c78-4b756f396fa1
 END:VEVENT
 BEGIN:VEVENT
 UID:la-early-stage-investor-brunch-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Early Stage Investor Brunch
 LOCATION:Santa Monica\, Santa Monica\, United States
-URL:https://www.tech-week.com/calendar/la/events/early-stage-investor-brunch-29aee4d1-c09d-4fc8-b4f4-eaf749df4e66
+URL:https://www.tech-week.com/calendar/la/events/early-stage-investor-brunc
+ h-29aee4d1-c09d-4fc8-b4f4-eaf749df4e66
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/early-stage-investor-brunch-29aee4d1-c09d-4fc8-b4f4-eaf749df4e6
+ 6\n活动时间（按活动页面标注）: 10:30 AM–12:30 PM
 END:VEVENT
 BEGIN:VEVENT
-UID:la-tech-week-b2b-founders-funders-breakfast-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+UID:la-tech-week-b2b-founders-funders-breakfast-2026@global-conference-rada
+ r
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Early-Stage B2B Tech Founders & Funders Breakfast
-LOCATION:Santa Monica (exact venue provided after approval)\, Santa Monica\, United States
-URL:https://www.tech-week.com/calendar/la/events/early-stage-b2b-tech-founders-and-funders-breakfast-7f08ddbf-a3ce-4585-a148-976bc722619f
+LOCATION:Santa Monica (exact venue provided after approval)\, Santa Monica\
+ , United States
+URL:https://partiful.com/e/7eSpkI6bym8baVkfzb02
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/earl
+ y-stage-b2b-tech-founders-and-funders-breakfast-7f08ddbf-a3ce-4585-a148-97
+ 6bc722619f\n报名/RSVP: https://partiful.com/e/7eSpkI6bym8baVkfzb02\n活
+ 动时间（按活动页面标注）: 9:30–11:30 AM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:la-founders-funders-vc-reverse-pitch-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Founders & Funders: VC Reverse Pitch
 LOCATION:Santa Monica\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/founders-and-funders-vc-reverse-pitch-439b600c-289b-44b0-bc5d-756e2582a7ec
+URL:https://www.tech-week.com/calendar/la/events/founders-and-funders-vc-re
+ verse-pitch-439b600c-289b-44b0-bc5d-756e2582a7ec
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/founders-and-funders-vc-reverse-pitch-439b600c-289b-44b0-bc5d-7
+ 56e2582a7ec
 END:VEVENT
 BEGIN:VEVENT
 UID:pinecone-agentic-ai-meetup-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Pinecone LA Agentic AI Meetup
 LOCATION:Playa Vista\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/pinecone-la-agentic-ai-meetup
+URL:https://partiful.com/e/bh5rBRPMPnOP9HO8IEis
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/pine
+ cone-la-agentic-ai-meetup\n报名/RSVP: https://partiful.com/e/bh5rBRPMPnO
+ P9HO8IEis\n活动时间（按活动页面标注）: 5:00–7:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:pitch-on-tap-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Pitch on Tap: Happy Hour with VCs and their AI personas
 LOCATION:Santa Monica\, Santa Monica\, United States
-URL:https://www.tech-week.com/calendar/la/events/pitch-on-tap-happy-hour-with-vcs-and-their-ai-personas-la-techweek-ad67cbe0-bc00-4b9c-acdf-de62e79d2f67
+URL:https://www.tech-week.com/calendar/la/events/pitch-on-tap-happy-hour-wi
+ th-vcs-and-their-ai-personas-la-techweek-ad67cbe0-bc00-4b9c-acdf-de62e79d2
+ f67
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/pitch-on-tap-happy-hour-with-vcs-and-their-ai-personas-la-techw
+ eek-ad67cbe0-bc00-4b9c-acdf-de62e79d2f67\n活动时间（按活动页面
+ 标注）: 5:00–6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:pitchlive-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:PitchLive.LA
 LOCATION:Venice\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/pitchlive-la-2c4ada73-f7ad-40a4-80ea-bad75cdd5009
+URL:https://partiful.com/e/wUH0TYSs80py16n0C7HQ
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/pitc
+ hlive-la-2c4ada73-f7ad-40a4-80ea-bad75cdd5009\n报名/RSVP: https://partif
+ ul.com/e/wUH0TYSs80py16n0C7HQ\n活动时间（按活动页面标注）: 5:
+ 00–9:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:founder-funder-spikeball-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:founder funder SPIKEBALL slam
-LOCATION:Santa Monica Beach near Sorrento Beach and Lot 8\, Santa Monica\, United States
-URL:https://www.tech-week.com/calendar/la/events/founder-funder-spikeball-slam-45b72883-ac45-4c51-89a8-3b9e05db4683
+LOCATION:Santa Monica Beach near Sorrento Beach and Lot 8\, Santa Monica\,
+  United States
+URL:https://www.tech-week.com/calendar/la/events/founder-funder-spikeball-s
+ lam-45b72883-ac45-4c51-89a8-3b9e05db4683
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/founder-funder-spikeball-slam-45b72883-ac45-4c51-89a8-3b9e05db4
+ 683\n活动时间（按活动页面标注）: 8:30–10:00 AM
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-native-services-summit-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:AI-Native Services Summit with Fika and Emergence
 LOCATION:Culver City\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/ai-native-services-summit-with-fika-and-emergence-40258c8e-1a1f-4451-bd26-d4ab4a72c326
+URL:https://www.tech-week.com/calendar/la/events/ai-native-services-summit-
+ with-fika-and-emergence-40258c8e-1a1f-4451-bd26-d4ab4a72c326
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/ai-native-services-summit-with-fika-and-emergence-40258c8e-1a1f
+ -4451-bd26-d4ab4a72c326\n活动时间（按活动页面标注）: 11:00 AM
+ –1:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:drinks-data-ai-happy-hour-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Drinks & Data: An AI Happy Hour
 LOCATION:Venice\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/drinks-and-data-an-ai-happy-hour-79f7463c-b07a-4dbf-92c7-b2710d522400
+URL:https://www.tech-week.com/calendar/la/events/drinks-and-data-an-ai-happ
+ y-hour-79f7463c-b07a-4dbf-92c7-b2710d522400
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/drinks-and-data-an-ai-happy-hour-79f7463c-b07a-4dbf-92c7-b2710d
+ 522400\n活动时间（按活动页面标注）: 6:00–9:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:fundrise-ai-founders-investors-dinner-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Investing in 2026: Dinner with Founders & Investors
 LOCATION:Venice\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/investing-in-2026-dinner-with-founders-and-investors-cf82cfcc-d028-4b18-8567-0f440577b1c1
+URL:https://www.tech-week.com/calendar/la/events/investing-in-2026-dinner-w
+ ith-founders-and-investors-cf82cfcc-d028-4b18-8567-0f440577b1c1
+DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
+ /la/events/investing-in-2026-dinner-with-founders-and-investors-cf82cfcc-d
+ 028-4b18-8567-0f440577b1c1\n活动时间（按活动页面标注）: 7:00
+  PM
 END:VEVENT
 BEGIN:VEVENT
 UID:pitch4capital-funding-day-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Pitch4Capital.com Funding Day — Founder Investor Mixer
 LOCATION:Culver City\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/pitch4capital-com-funding-day-founder-investor-mixer-55b76caf-2ce2-4e15-89d6-d47d8e85d1e0
+URL:https://partiful.com/e/DkqSzrMc91VW9hY8zaVB
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/pitc
+ h4capital-com-funding-day-founder-investor-mixer-55b76caf-2ce2-4e15-89d6-d
+ 47d8e85d1e0\n报名/RSVP: https://partiful.com/e/DkqSzrMc91VW9hY8zaVB\n活
+ 动时间（按活动页面标注）: 2:00–4:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:visionary-edge-agentic-architecture-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:The Visionary Edge: 10x Thinking and Agentic Architecture
 LOCATION:Venice\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/the-visionary-edge-10x-thinking-and-agentic-architecture-91964c4e-43d6-4a6b-b92b-ca6a3e5bb73f
+URL:https://partiful.com/e/Hofxl3KSqnK7087V3FJ6
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/the-
+ visionary-edge-10x-thinking-and-agentic-architecture-91964c4e-43d6-4a6b-b9
+ 2b-ca6a3e5bb73f\n报名/RSVP: https://partiful.com/e/Hofxl3KSqnK7087V3FJ6\
+ n活动时间（按活动页面标注）: 9:30 AM–1:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:antler-first-funding-la-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Figuring out First Funding
 LOCATION:Brentwood\, Los Angeles\, United States
-URL:https://www.tech-week.com/calendar/la/events/figuring-out-first-funding-a5f711d6-e0f1-474d-8375-b225577b6dd2
+URL:https://partiful.com/e/pn1HP8FJlKkgVMocWtqL
+DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/figu
+ ring-out-first-funding-a5f711d6-e0f1-474d-8375-b225577b6dd2\n报名/RSVP:
+  https://partiful.com/e/pn1HP8FJlKkgVMocWtqL
 END:VEVENT
 BEGIN:VEVENT
 UID:nvidia-gtc-berlin-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261023
 SUMMARY:NVIDIA GTC Berlin 2026
 LOCATION:Not announced\, Berlin\, Germany
 URL:https://www.nvidia.com/gtc/events/
+DESCRIPTION:活动详情 / 报名入口: https://www.nvidia.com/gtc/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:emnlp-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261030
 SUMMARY:EMNLP 2026
 LOCATION:Not announced\, Budapest\, Hungary
 URL:https://2026.emnlp.org/
+DESCRIPTION:活动详情: https://2026.emnlp.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:odsc-ai-west-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261030
 SUMMARY:ODSC AI West 2026
-LOCATION:Hyatt Regency San Francisco Airport\, 1333 Old Bayshore Highway\, Burlingame\, United States
+LOCATION:Hyatt Regency San Francisco Airport\, 1333 Old Bayshore Highway\,
+  Burlingame\, United States
 URL:https://odsc.ai/west/
+DESCRIPTION:活动详情 / 报名入口: https://odsc.ai/west/
 END:VEVENT
 BEGIN:VEVENT
 UID:github-universe-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261030
 SUMMARY:GitHub Universe 2026
 LOCATION:Not announced\, TBD\, TBD
-URL:https://githubuniverse.com/
+URL:https://githubuniverse.com/pricing
+DESCRIPTION:活动详情: https://githubuniverse.com/\n报名/RSVP: https:/
+ /githubuniverse.com/pricing\n活动时间（按活动页面标注）: 9:00
+  AM UTC-07:00
 END:VEVENT
 BEGIN:VEVENT
 UID:corl-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:Conference on Robot Learning 2026
 LOCATION:JW Marriott Austin\, Austin\, United States
 URL:https://www.corl.org/home
+DESCRIPTION:活动详情: https://www.corl.org/home
 END:VEVENT
 BEGIN:VEVENT
 UID:kubecon-na-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:KubeCon + CloudNativeCon North America 2026
 LOCATION:Salt Palace Convention Center\, Salt Lake City\, United States
-URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/
+URL:https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america
+ /
+DESCRIPTION:活动详情: https://events.linuxfoundation.org/kubecon-cloudn
+ ativecon-north-america/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-lisbon-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:Web Summit Lisbon 2026
 LOCATION:MEO Arena\, Lisbon\, Lisbon\, Portugal
 URL:https://websummit.com/web-summit-2026/
+DESCRIPTION:活动详情 / 报名入口: https://websummit.com/web-summit-2
+ 026/
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-angel-conference-30-demo-day-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Seattle Angel Conference 30 Final Demo Day
 LOCATION:Online\, Seattle\, United States
-URL:https://seattleangelconference.com/attend-the-conference/
+URL:https://luma.com/seattle-891q
+DESCRIPTION:活动详情: https://seattleangelconference.com/attend-the-con
+ ference/\n报名/RSVP: https://luma.com/seattle-891q
 END:VEVENT
 BEGIN:VEVENT
 UID:africa-tech-festival-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261120
 SUMMARY:Africa Tech Festival 2026
-LOCATION:Cape Town International Convention Centre\, Cape Town\, South Africa
+LOCATION:Cape Town International Convention Centre\, Cape Town\, South Afri
+ ca
 URL:https://africatechfestival.com/
+DESCRIPTION:活动详情 / 报名入口: https://africatechfestival.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:microsoft-ignite-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
 SUMMARY:Microsoft Ignite 2026
 LOCATION:Moscone Center\, San Francisco\, United States
 URL:https://ignite.microsoft.com/
+DESCRIPTION:活动详情 / 报名入口: https://ignite.microsoft.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-fintech-festival-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261121
 SUMMARY:Singapore FinTech Festival 2026
 LOCATION:Singapore EXPO (Halls 1-6)\, Singapore\, SG
-URL:https://www.fintechfestival.sg/
+URL:https://www.fintechfestival.sg/registration
+DESCRIPTION:活动详情: https://www.fintechfestival.sg/\n报名/RSVP: htt
+ ps://www.fintechfestival.sg/registration
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:Slush 2026
-LOCATION:Helsinki Expo and Convention Centre (Messukeskus)\, Helsinki\, Finland
+LOCATION:Helsinki Expo and Convention Centre (Messukeskus)\, Helsinki\, Fin
+ land
 URL:https://slush.org/
+DESCRIPTION:活动详情 / 报名入口: https://slush.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:aws-reinvent-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 SUMMARY:AWS re:Invent 2026
 LOCATION:Multiple Las Vegas venues\, Las Vegas\, United States
 URL:https://aws.amazon.com/events/reinvent/
+DESCRIPTION:活动详情 / 报名入口: https://aws.amazon.com/events/rein
+ vent/
 END:VEVENT
 BEGIN:VEVENT
 UID:neurips-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261213
 SUMMARY:NeurIPS 2026
 LOCATION:Not announced\, Sydney\, Australia
 URL:https://neurips.cc/
+DESCRIPTION:活动详情: https://neurips.cc/
 END:VEVENT
 BEGIN:VEVENT
 UID:gitex-global-2026@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:GITEX GLOBAL 2026
-LOCATION:Dubai Exhibition Centre at Expo City Dubai\, Dubai\, United Arab Emirates
+LOCATION:Dubai Exhibition Centre at Expo City Dubai\, Dubai\, United Arab E
+ mirates
 URL:https://www.gitex.com/
+DESCRIPTION:活动详情 / 报名入口: https://www.gitex.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:ces-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270110
 SUMMARY:CES 2027
-LOCATION:Las Vegas Convention Center and partner venues\, Las Vegas\, United States
-URL:https://www.ces.tech/
+LOCATION:Las Vegas Convention Center and partner venues\, Las Vegas\, Unite
+ d States
+URL:https://www.ces.tech/attend/registration-notification/
+DESCRIPTION:活动详情: https://www.ces.tech/\n报名/RSVP: https://www.c
+ es.tech/attend/registration-notification/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-qatar-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270204
 SUMMARY:Web Summit Qatar 2027
 LOCATION:Doha Exhibition & Convention Center\, Doha\, Qatar
 URL:https://qatar.websummit.com/
+DESCRIPTION:活动详情 / 报名入口: https://qatar.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:aaai-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270224
 SUMMARY:AAAI-27
 LOCATION:Not announced\, Montreal\, Canada
 URL:https://aaai.org/conference/aaai/aaai-27/
+DESCRIPTION:活动详情: https://aaai.org/conference/aaai/aaai-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:mwc-barcelona-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
 SUMMARY:MWC Barcelona 2027
 LOCATION:Fira Gran Via\, Barcelona\, Spain\, Barcelona\, Spain
 URL:https://www.mwcbarcelona.com/
+DESCRIPTION:活动详情 / 报名入口: https://www.mwcbarcelona.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:humanx-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270311
 SUMMARY:HumanX 2027
 LOCATION:Mandalay Bay\, Las Vegas\, US
-URL:https://www.humanx.co/us
+URL:https://www.humanx.co/us/register
+DESCRIPTION:活动详情: https://www.humanx.co/us\n报名/RSVP: https://ww
+ w.humanx.co/us/register
 END:VEVENT
 BEGIN:VEVENT
 UID:nvidia-gtc-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270319
 SUMMARY:NVIDIA GTC 2027
-LOCATION:San Jose McEnery Convention Center and downtown venues\, San Jose\, United States
+LOCATION:San Jose McEnery Convention Center and downtown venues\, San Jose\
+ , United States
 URL:https://www.nvidia.com/gtc/
+DESCRIPTION:活动详情 / 报名入口: https://www.nvidia.com/gtc/
 END:VEVENT
 BEGIN:VEVENT
 UID:sxsw-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270322
 SUMMARY:SXSW Conference & Festivals 2027
 LOCATION:Downtown Austin venues\, Austin\, United States
 URL:https://sxsw.com/
+DESCRIPTION:活动详情: https://sxsw.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:hannover-messe-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
 SUMMARY:HANNOVER MESSE 2027
 LOCATION:Hannover Exhibition Grounds\, Hannover\, Germany
 URL:https://www.hannovermesse.de/
+DESCRIPTION:活动详情 / 报名入口: https://www.hannovermesse.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:google-cloud-next-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
 SUMMARY:Google Cloud Next 2027
 LOCATION:Not announced\, Las Vegas\, United States
 URL:https://cloud.withgoogle.com/next
+DESCRIPTION:活动详情 / 报名入口: https://cloud.withgoogle.com/next
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-shanghai-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270503
 SUMMARY:Auto Shanghai 2027
 LOCATION:National Exhibition and Convention Center\, Shanghai\, China
 URL:https://www.autoshanghai.org/
+DESCRIPTION:活动详情: https://www.autoshanghai.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:saastr-annual-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270513
 SUMMARY:SaaStr Annual 2027
 LOCATION:San Mateo County Event Center\, San Mateo\, US
-URL:https://www.saastrannual.com/
+URL:https://www.saastrannual.com/buy-tickets
+DESCRIPTION:活动详情: https://www.saastrannual.com/\n报名/RSVP: https
+ ://www.saastrannual.com/buy-tickets\n活动时间（按活动页面标注
+ ）: 9:00 AM UTC-07:00
 END:VEVENT
 BEGIN:VEVENT
 UID:icra-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
 SUMMARY:IEEE ICRA 2027
 LOCATION:Not announced\, Seoul\, South Korea
 URL:https://2027.ieee-icra.org/
+DESCRIPTION:活动详情: https://2027.ieee-icra.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-vancouver-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270529
 SUMMARY:Web Summit Vancouver 2027
 LOCATION:Vancouver Convention Centre\, Vancouver\, Canada
 URL:https://vancouver.websummit.com/
+DESCRIPTION:活动详情 / 报名入口: https://vancouver.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:atxsg-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270529
 SUMMARY:Asia Tech x Singapore 2027
 LOCATION:Capella Singapore and Singapore EXPO\, Singapore\, Singapore
 URL:https://asiatechxsg.com/
+DESCRIPTION:活动详情 / 报名入口: https://asiatechxsg.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:snowflake-summit-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270611
 SUMMARY:Snowflake Summit 27
 LOCATION:Moscone Center\, San Francisco\, USA
 URL:https://www.snowflake.com/en/summit/
+DESCRIPTION:活动详情: https://www.snowflake.com/en/summit/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-rio-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270618
 SUMMARY:Web Summit Rio 2027
-LOCATION:Riocentro: Exhibition & Convention Center\, Rio de Janeiro\, Brazil
+LOCATION:Riocentro: Exhibition & Convention Center\, Rio de Janeiro\, Brazi
+ l
 URL:https://rio.websummit.com/
+DESCRIPTION:活动详情: https://rio.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:vivatech-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270620
 SUMMARY:Viva Technology 2027
 LOCATION:Paris Expo Porte de Versailles\, Paris\, France
 URL:https://vivatech.com/
+DESCRIPTION:活动详情: https://vivatech.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:data-ai-summit-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270625
 SUMMARY:Databricks Data + AI Summit 2027
 LOCATION:Not announced\, San Francisco\, United States
 URL:https://www.databricks.com/dataaisummit
+DESCRIPTION:活动详情: https://www.databricks.com/dataaisummit
 END:VEVENT
 BEGIN:VEVENT
 UID:mwc-shanghai-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270626
 SUMMARY:MWC Shanghai 2027
 LOCATION:Shanghai New International Expo Centre\, Shanghai\, China
 URL:https://www.mwcshanghai.cn/
+DESCRIPTION:活动详情: https://www.mwcshanghai.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-engineer-worlds-fair-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270703
 SUMMARY:AI Engineer World's Fair 2027
 LOCATION:Moscone West\, San Francisco\, US
 URL:https://www.ai.engineer/worldsfair
+DESCRIPTION:活动详情: https://www.ai.engineer/worldsfair
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-2027@global-conference-radar
-DTSTAMP:20261006T173635Z
+DTSTAMP:20261007T022246Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270712
 SUMMARY:Robotics Science and Systems 2027
 LOCATION:Not announced\, TBD\, TBD
 URL:https://roboticsconference.org/
+DESCRIPTION:活动详情: https://roboticsconference.org/
 END:VEVENT
 END:VCALENDAR
