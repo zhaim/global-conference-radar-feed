@@ -4,7 +4,7 @@ PRODID:-//Global Conference Radar//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:la-face-to-face-investors-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:2026 Face to Face with Investors
@@ -17,7 +17,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:building-in-la-slauson-jpmorgan-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Building in LA
@@ -29,7 +29,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:la-early-stage-investor-brunch-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Early Stage Investor Brunch
@@ -43,7 +43,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:la-tech-week-b2b-founders-funders-breakfast-2026@global-conference-rada
  r
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Early-Stage B2B Tech Founders & Funders Breakfast
@@ -57,7 +57,7 @@ DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/earl
 END:VEVENT
 BEGIN:VEVENT
 UID:la-founders-funders-vc-reverse-pitch-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Founders & Funders: VC Reverse Pitch
@@ -70,7 +70,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:human-in-loop-ai-agents-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Human-in-the-loop for AI agents and automated workflows
@@ -83,18 +83,20 @@ DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/huma
 END:VEVENT
 BEGIN:VEVENT
 UID:new-tech-seattle-ai-week-preview-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:New Tech Seattle October 2026 Meetup - Seattle AI Week Preview
-LOCATION:The Collective Seattle\, Seattle\, US
+LOCATION:The Collective\, 400 Dexter Ave N Ste 100\, Seattle\, WA 98109\, S
+ eattle\, United States
 URL:https://luma.com/iswwo0dn
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/iswwo0dn\n活动
- 时间（已核验）: 5:30 PM–7:45 PM UTC-07:00
+ 时间（已核验）: 5:30–7:45 PM PT networking/presentations\; afterp
+ arty follows
 END:VEVENT
 BEGIN:VEVENT
 UID:cap-table-google-penthouse-salon-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Penthouse Salon: The Cap Table x Google
@@ -108,7 +110,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:pinecone-agentic-ai-meetup-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Pinecone LA Agentic AI Meetup
@@ -120,7 +122,7 @@ DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/pine
 END:VEVENT
 BEGIN:VEVENT
 UID:pitch-on-tap-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Pitch on Tap: Happy Hour with VCs and their AI personas
@@ -135,7 +137,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:pitchlive-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:PitchLive.LA
@@ -148,7 +150,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:uncork-frontier-builders-investors-dinner-la-2026@global-conference-rad
  ar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Uncork's Frontier Builders & Investors Dinner
@@ -161,19 +163,21 @@ DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/unco
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-ubiquity-vc-ama-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:Unfiltered: VC AMA with Sunil Nagaraj
-LOCATION:AI House\, Seattle\, United States
+LOCATION:AI House\, 2801 Alaskan Wy\, Seattle\, WA 98121\, Seattle\, United
+  States
 URL:https://luma.com/aihouse-9gqu
 DESCRIPTION:活动详情: https://seattleflow.org/event/unfiltered-vc-ama-w
  ith-sunil-nagaraj\n报名/RSVP: https://luma.com/aihouse-9gqu\n活动时
- 间（已核验）: 4:00 PM–6:00 PM UTC-07:00
+ 间（已核验）: 4:00–6:00 PM PT\; networking 4:00–4:30 and 5:15–
+ 6:00\n时间来源: https://luma.com/aihouse-9gqu
 END:VEVENT
 BEGIN:VEVENT
 UID:founder-funder-spikeball-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
 SUMMARY:founder funder SPIKEBALL slam
@@ -187,7 +191,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-native-services-summit-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:AI-Native Services Summit with Fika and Emergence
@@ -200,7 +204,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:drinks-data-ai-happy-hour-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Drinks & Data: An AI Happy Hour
@@ -213,7 +217,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:fundrise-ai-founders-investors-dinner-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Investing in 2026: Dinner with Founders & Investors
@@ -226,18 +230,19 @@ DESCRIPTION:活动详情 / 报名入口: https://www.tech-week.com/calendar
 END:VEVENT
 BEGIN:VEVENT
 UID:likely-agentic-network-launch-sf-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
+DTSTAMP:20261013T162511Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
 SUMMARY:Launch Party: Unveiling the World's First Agentic Network (Likely)
-LOCATION:Hotel VIA\, San Francisco\, US
+LOCATION:Ferry Building\, 1 Ferry Building\, San Francisco\, United States
 URL:https://luma.com/mscnq9p0
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/mscnq9p0\n活动
- 时间（已核验）: 5:30 PM–9:00 PM UTC-07:00
+ 时间（已核验）: 7:00–9:00 PM PT\n时间来源: https://app.bridge
+ us.co/agentic-network-launch-oct-14/
 END:VEVENT
 BEGIN:VEVENT
 UID:pitch4capital-funding-day-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Pitch4Capital.com Funding Day — Founder Investor Mixer
@@ -250,7 +255,7 @@ DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/pitc
 END:VEVENT
 BEGIN:VEVENT
 UID:visionary-edge-agentic-architecture-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:The Visionary Edge: 10x Thinking and Agentic Architecture
@@ -263,7 +268,7 @@ DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/the-
 END:VEVENT
 BEGIN:VEVENT
 UID:antler-first-funding-la-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Figuring out First Funding
@@ -275,7 +280,7 @@ DESCRIPTION:活动详情: https://www.tech-week.com/calendar/la/events/figu
 END:VEVENT
 BEGIN:VEVENT
 UID:orkes-shift-agentic-orchestration-sf-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Orkes Shift '26
@@ -288,29 +293,34 @@ DESCRIPTION:活动详情: https://orkes.io/shift\n报名/RSVP: https://luma
 END:VEVENT
 BEGIN:VEVENT
 UID:founders-bay-founder-vc-breakfast-sf-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Founder/VC Breakfast hosted by Founders Bay
-LOCATION:San Francisco\, CA\, San Francisco\, US
+LOCATION:San Francisco\, exact address disclosed after registration\, San F
+ rancisco\, United States
 URL:https://luma.com/5iy06l0w
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/5iy06l0w\n活动
- 时间（已核验）: 10:00 AM–1:00 PM UTC-07:00
+ 时间（已核验）: 10:00 AM–1:00 PM PT\; investor panels 11:00 AM–
+ 12:20 PM\; open networking until 1:00 PM\n时间来源: https://www.founde
+ rsbay.com/events
 END:VEVENT
 BEGIN:VEVENT
 UID:open-together-ai-builders-unite-sf-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261017
 SUMMARY:Open Together: AI Builders Unite
-LOCATION:The Midway\, San Francisco\, US
+LOCATION:The Midway\, 900 Marin St\, San Francisco\, San Francisco\, United
+  States
 URL:https://luma.com/OpenTogether
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/OpenTogether\n活
- 动时间（已核验）: 6:00 PM UTC-07:00
+ 动时间（已核验）: 6:00–9:00 PM PT meetup\, demos and networking\
+ ; 9:00 PM–midnight dance party
 END:VEVENT
 BEGIN:VEVENT
 UID:mit-ai-conference-age-of-agency-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261018
 SUMMARY:MIT AI Conference 2026: AI — The Age of Agency
@@ -323,18 +333,19 @@ DESCRIPTION:活动详情: https://www.mitaiconference.org/\n报名/RSVP: ht
 END:VEVENT
 BEGIN:VEVENT
 UID:mcp-in-the-wild-agents-that-know-you-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:MCP in the Wild: Agents That Know You
-LOCATION:Silicon Valley AI Hub\, Menlo Park\, US
+LOCATION:Silicon Valley AI Hub\, 135 Constitution Dr\, Menlo Park\, Menlo P
+ ark\, United States
 URL:https://luma.com/k6qlui66
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/k6qlui66\n活动
- 时间（已核验）: 5:30 PM–8:00 PM UTC-07:00
+ 时间（已核验）: 5:30–8:00 PM PT\; networking\, talks and demos
 END:VEVENT
 BEGIN:VEVENT
 UID:nvidia-gtc-berlin-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261023
 SUMMARY:NVIDIA GTC Berlin 2026
@@ -344,69 +355,80 @@ DESCRIPTION:活动详情 / 报名入口: https://www.nvidia.com/gtc/events/
 END:VEVENT
 BEGIN:VEVENT
 UID:openclaw-friends-meetup-sf-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:OpenClaw & Friends Meetup
-LOCATION:San Francisco\, CA\, San Francisco\, US
+LOCATION:San Francisco (exact address shared after registration)\, San Fran
+ cisco\, United States
 URL:https://luma.com/oah05xax
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/oah05xax\n活动
- 时间（已核验）: 6:00 PM–9:00 PM UTC-07:00
+ 时间（已核验）: 6:00 PM PT start\; end time not published\n时间
+ 来源: https://luma.com/opensourceaiweek
 END:VEVENT
 BEGIN:VEVENT
 UID:agents-in-production-devtools-demo-night-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Agents in Production: DevTools demo night
-LOCATION:Menlo Park\, CA\, Menlo Park\, US
+LOCATION:Silicon Valley AI Hub\, exact address shared after registration\,
+  Menlo Park\, United States
 URL:https://luma.com/p7v901j3
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/p7v901j3\n活动
- 时间（已核验）: 5:30 PM–7:30 PM UTC-07:00
+ 时间（已核验）: 5:30–7:30 PM PT\; check-in 5:30–6:00\, demos 6:
+ 00–7:00\, networking 7:00–7:30
 END:VEVENT
 BEGIN:VEVENT
 UID:bring-your-own-agent-shared-room-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Bring Your Own Agent to a Shared Room
-LOCATION:Online Event\, Online\, Virtual
+LOCATION:Online event\, Online\, Virtual
 URL:https://luma.com/z0nwx9ba
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/z0nwx9ba\n活动
- 时间（已核验）: 5:00 PM–6:30 PM UTC-07:00
+ 时间（已核验）: 5:00 PM PT\; 90-minute session (listed start and du
+ ration\; end time not separately displayed)\n时间来源: https://opensou
+ rceaiweek.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:funders-founders-venture-market-2027-predictions-sf-2026@global-confere
  nce-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Funders & Founders: State of the Venture Market + 2027 Predictions
-LOCATION:Pilot.com\, Inc.\, San Francisco\, US
+LOCATION:Pilot SF Office\, 353 Sacramento St\, San Francisco\, United State
+ s
 URL:https://luma.com/ufwf8zue
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/ufwf8zue\n活动
- 时间（已核验）: 5:00 PM–8:00 PM UTC-07:00
+ 时间（已核验）: 5:00–8:00 PM PT per Luma\; Cake organizer page li
+ sts 5:00–7:30 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:open-source-devtools-founders-posthog-cline-1984-2026@global-conference
  -radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Lessons from Open Source DevTools Founders w/ PostHog\, Cline and m
  ore
-LOCATION:Hogpatch\, San Francisco\, US
+LOCATION:Hogpatch\, 2360 3rd St\, San Francisco\, San Francisco\, United St
+ ates
 URL:https://luma.com/bfgu761e
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/bfgu761e\n活动
- 时间（已核验）: 6:00 PM–9:00 PM UTC-07:00
+ 时间（已核验）: 6:00 PM PT doors\; founder roundtables at 7:00 PM\;
+  networking at 8:00 PM (end time not stated)\n时间来源: https://luma.c
+ om/opensourceaiweek
 END:VEVENT
 BEGIN:VEVENT
 UID:agntcon-mcpcon-north-america-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261024
 SUMMARY:AGNTCon + MCPCon North America 2026
-LOCATION:San Jose Convention Center\, San Jose\, United States
+LOCATION:San Jose McEnery Convention Center\, San Jose\, United States
 URL:https://events.linuxfoundation.org/agntcon-mcpcon-north-america/registe
  r/
 DESCRIPTION:活动详情: https://events.linuxfoundation.org/agntcon-mcpcon
@@ -418,7 +440,7 @@ DESCRIPTION:活动详情: https://events.linuxfoundation.org/agntcon-mcpcon
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-agent-arena-palo-alto-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:AI Agent Arena: Ten Agents\, Five Minutes Each\, Live Demos Only
@@ -431,43 +453,47 @@ DESCRIPTION:活动详情 / 报名入口: https://www.eventbrite.com/e/ai-ag
 END:VEVENT
 BEGIN:VEVENT
 UID:open-infra-night-agent-builders-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:Open Infra Night for Agent Builders #Open Source AI Week
-LOCATION:San Francisco\, CA\, San Francisco\, US
+LOCATION:San Francisco\; exact address shared after registration\, San Fran
+ cisco\, United States
 URL:https://luma.com/jsu2t3ad
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/jsu2t3ad\n活动
- 时间（已核验）: 5:00 PM–8:30 PM UTC-07:00
+ 时间（已核验）: 5:00–8:30 PM PT\; networking begins 5:00 PM and r
+ esumes 7:05 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:the-inversion-agent-first-companies-osaiweek-2026@global-conference-rad
  ar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261023
 SUMMARY:The Inversion - AI Week Side Event
-LOCATION:San Francisco\, CA\, San Francisco\, US
+LOCATION:San Francisco\; exact address shared after registration\, San Fran
+ cisco\, United States
 URL:https://luma.com/opl-osaw
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/opl-osaw\n活动
- 时间（已核验）: 1:00 PM–6:00 PM UTC-07:00
+ 时间（已核验）: 1:00–6:00 PM PT\; networking 4:55–6:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-ethics-network-mixer-seattle-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:AI Ethics Network Mixer
-LOCATION:The Collective Seattle\, Seattle\, US
+LOCATION:The Collective Seattle\, 400 Dexter Avenue North\, Seattle\, Unite
+ d States
 URL:https://www.eventbrite.com/e/ai-ethics-network-mixer-tickets-1999813394
  697
 DESCRIPTION:活动详情 / 报名入口: https://www.eventbrite.com/e/ai-et
  hics-network-mixer-tickets-1999813394697\n活动时间（已核验）: 5:3
- 0 PM–8:30 PM UTC-07:00
+ 0–8:30 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:emnlp-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261024
 DTEND;VALUE=DATE:20261030
 SUMMARY:EMNLP 2026
@@ -478,41 +504,46 @@ END:VEVENT
 BEGIN:VEVENT
 UID:seattle-ai-week-building-with-ai-founder-talks-2026@global-conference-r
  adar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Building with AI: Founder Talks @ Seattle AI Week
-LOCATION:SURF Incubator\, Seattle\, US
+LOCATION:SURF Incubator\, 999 3rd Ave Ste 700\, Seattle\, WA 98104\, Seattl
+ e\, United States
 URL:https://luma.com/2fy747m5
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/2fy747m5\n活动
- 时间（已核验）: 1:00 PM–3:00 PM UTC-07:00
+ 时间（已核验）: 1:00–3:00 PM PT
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-ai-week-founder-showcase-surf-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Founder Showcase: Seattle AI Week Kickoff
-LOCATION:SURF Incubator\, Seattle\, US
+LOCATION:SURF Incubator\, 999 3rd Ave Ste 700\, Seattle\, WA 98104\, Seattl
+ e\, United States
 URL:https://luma.com/i2e17fmv
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/i2e17fmv\n活动
- 时间（已核验）: 10:00 AM–1:00 PM UTC-07:00
+ 时间（已核验）: 10:00 AM–1:00 PM PT\; pitches at 11:00 AM\; lunch
+  and networking at 12:30 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-ai-week-startup-panel-happy-hour-surf-2026@global-conference-ra
  dar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Startup Panel + Happy Hour @ Seattle AI Week
-LOCATION:SURF Incubator\, Seattle\, US
+LOCATION:SURF Incubator\, 999 3rd Ave Ste 700\, Seattle\, WA 98104\, Seattl
+ e\, United States
 URL:https://luma.com/kns4dry3
 DESCRIPTION:活动详情 / 报名入口: https://luma.com/kns4dry3\n活动
- 时间（已核验）: 3:00 PM–6:00 PM UTC-07:00
+ 时间（已核验）: 3:00–6:00 PM PT\; founder panel at 3:30 PM\; happ
+ y hour at 5:00 PM
 END:VEVENT
 BEGIN:VEVENT
 UID:odsc-ai-west-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261027
 DTEND;VALUE=DATE:20261030
 SUMMARY:ODSC AI West 2026
@@ -523,7 +554,7 @@ DESCRIPTION:活动详情 / 报名入口: https://odsc.ai/west/
 END:VEVENT
 BEGIN:VEVENT
 UID:github-universe-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261030
 SUMMARY:GitHub Universe 2026
@@ -535,7 +566,7 @@ DESCRIPTION:活动详情: https://githubuniverse.com/\n报名/RSVP: https:/
 END:VEVENT
 BEGIN:VEVENT
 UID:corl-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:Conference on Robot Learning 2026
@@ -545,7 +576,7 @@ DESCRIPTION:活动详情: https://www.corl.org/home
 END:VEVENT
 BEGIN:VEVENT
 UID:kubecon-na-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:KubeCon + CloudNativeCon North America 2026
@@ -557,7 +588,7 @@ DESCRIPTION:活动详情: https://events.linuxfoundation.org/kubecon-cloudn
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-lisbon-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261113
 SUMMARY:Web Summit Lisbon 2026
@@ -568,7 +599,7 @@ DESCRIPTION:活动详情 / 报名入口: https://websummit.com/web-summit-2
 END:VEVENT
 BEGIN:VEVENT
 UID:seattle-angel-conference-30-demo-day-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Seattle Angel Conference 30 Final Demo Day
@@ -579,7 +610,7 @@ DESCRIPTION:活动详情: https://seattleangelconference.com/attend-the-con
 END:VEVENT
 BEGIN:VEVENT
 UID:africa-tech-festival-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261120
 SUMMARY:Africa Tech Festival 2026
@@ -590,7 +621,7 @@ DESCRIPTION:活动详情 / 报名入口: https://africatechfestival.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:microsoft-ignite-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
 SUMMARY:Microsoft Ignite 2026
@@ -600,7 +631,7 @@ DESCRIPTION:活动详情 / 报名入口: https://ignite.microsoft.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-fintech-festival-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261121
 SUMMARY:Singapore FinTech Festival 2026
@@ -611,7 +642,7 @@ DESCRIPTION:活动详情: https://www.fintechfestival.sg/\n报名/RSVP: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:Slush 2026
@@ -622,7 +653,7 @@ DESCRIPTION:活动详情 / 报名入口: https://slush.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:aws-reinvent-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 SUMMARY:AWS re:Invent 2026
@@ -633,7 +664,7 @@ DESCRIPTION:活动详情 / 报名入口: https://aws.amazon.com/events/rein
 END:VEVENT
 BEGIN:VEVENT
 UID:neurips-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261213
 SUMMARY:NeurIPS 2026
@@ -643,7 +674,7 @@ DESCRIPTION:活动详情: https://neurips.cc/
 END:VEVENT
 BEGIN:VEVENT
 UID:gitex-global-2026@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:GITEX GLOBAL 2026
@@ -654,7 +685,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.gitex.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:ces-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270110
 SUMMARY:CES 2027
@@ -666,7 +697,7 @@ DESCRIPTION:活动详情: https://www.ces.tech/\n报名/RSVP: https://www.c
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-qatar-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270204
 SUMMARY:Web Summit Qatar 2027
@@ -676,7 +707,7 @@ DESCRIPTION:活动详情 / 报名入口: https://qatar.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:aaai-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270224
 SUMMARY:AAAI-27
@@ -686,7 +717,7 @@ DESCRIPTION:活动详情: https://aaai.org/conference/aaai/aaai-27/
 END:VEVENT
 BEGIN:VEVENT
 UID:mwc-barcelona-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
 SUMMARY:MWC Barcelona 2027
@@ -696,7 +727,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.mwcbarcelona.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:humanx-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270311
 SUMMARY:HumanX 2027
@@ -707,7 +738,7 @@ DESCRIPTION:活动详情: https://www.humanx.co/us\n报名/RSVP: https://ww
 END:VEVENT
 BEGIN:VEVENT
 UID:nvidia-gtc-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270319
 SUMMARY:NVIDIA GTC 2027
@@ -718,7 +749,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.nvidia.com/gtc/
 END:VEVENT
 BEGIN:VEVENT
 UID:sxsw-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270322
 SUMMARY:SXSW Conference & Festivals 2027
@@ -728,7 +759,7 @@ DESCRIPTION:活动详情: https://sxsw.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:hannover-messe-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
 SUMMARY:HANNOVER MESSE 2027
@@ -738,7 +769,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.hannovermesse.de/
 END:VEVENT
 BEGIN:VEVENT
 UID:google-cloud-next-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
 SUMMARY:Google Cloud Next 2027
@@ -748,7 +779,7 @@ DESCRIPTION:活动详情 / 报名入口: https://cloud.withgoogle.com/next
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-shanghai-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270503
 SUMMARY:Auto Shanghai 2027
@@ -758,7 +789,7 @@ DESCRIPTION:活动详情: https://www.autoshanghai.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:saastr-annual-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270513
 SUMMARY:SaaStr Annual 2027
@@ -770,7 +801,7 @@ DESCRIPTION:活动详情: https://www.saastrannual.com/\n报名/RSVP: https
 END:VEVENT
 BEGIN:VEVENT
 UID:icra-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
 SUMMARY:IEEE ICRA 2027
@@ -780,7 +811,7 @@ DESCRIPTION:活动详情: https://2027.ieee-icra.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-vancouver-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270529
 SUMMARY:Web Summit Vancouver 2027
@@ -790,7 +821,7 @@ DESCRIPTION:活动详情 / 报名入口: https://vancouver.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:atxsg-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270529
 SUMMARY:Asia Tech x Singapore 2027
@@ -800,7 +831,7 @@ DESCRIPTION:活动详情 / 报名入口: https://asiatechxsg.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:snowflake-summit-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270611
 SUMMARY:Snowflake Summit 27
@@ -810,7 +841,7 @@ DESCRIPTION:活动详情: https://www.snowflake.com/en/summit/
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-rio-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270618
 SUMMARY:Web Summit Rio 2027
@@ -821,7 +852,7 @@ DESCRIPTION:活动详情: https://rio.websummit.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:vivatech-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270620
 SUMMARY:Viva Technology 2027
@@ -831,7 +862,7 @@ DESCRIPTION:活动详情: https://vivatech.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:data-ai-summit-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270625
 SUMMARY:Databricks Data + AI Summit 2027
@@ -841,7 +872,7 @@ DESCRIPTION:活动详情: https://www.databricks.com/dataaisummit
 END:VEVENT
 BEGIN:VEVENT
 UID:mwc-shanghai-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270626
 SUMMARY:MWC Shanghai 2027
@@ -851,7 +882,7 @@ DESCRIPTION:活动详情: https://www.mwcshanghai.cn/
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-engineer-worlds-fair-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270703
 SUMMARY:AI Engineer World's Fair 2027
@@ -861,7 +892,7 @@ DESCRIPTION:活动详情: https://www.ai.engineer/worldsfair
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-2027@global-conference-radar
-DTSTAMP:20261013T161348Z
+DTSTAMP:20261013T162511Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270712
 SUMMARY:Robotics Science and Systems 2027
