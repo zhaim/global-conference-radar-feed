@@ -3,61 +3,8 @@ VERSION:2.0
 PRODID:-//Global Conference Radar//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-UID:pitchforce-seattle-seed-round-2026-11@global-conference-radar
-DTSTAMP:20261113T223429Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:[Seattle] PitchForce Seattle Seed Round (In-Person)
-LOCATION:Thinkspace Seattle\, 1700 Westlake Ave N\, Seattle\, United States
-URL:https://events.pitch-force.com/events/pitchforce-seattle-seed-round-in-
- person-2
-DESCRIPTION:活动详情: https://pitch-force.com/\n报名/RSVP: https://ev
- ents.pitch-force.com/events/pitchforce-seattle-seed-round-in-person-2\n活
- 动时间（已核验）: 12:00 PM–4:00 PM PST\; networking hour 3:00–
- 4:00 PM\n时间来源: https://events.pitch-force.com/events/pitchforce-se
- attle-seed-round-in-person-2
-END:VEVENT
-BEGIN:VEVENT
-UID:sf-dynamism-after-hours-2026-11@global-conference-radar
-DTSTAMP:20261113T223429Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:[San Francisco] SF Dynamism After Hours — Corgi / YC / a16z / Pio
- neer Fund founders
-LOCATION:San Francisco\; exact venue shared with approved guests\, San Fran
- cisco\, United States
-URL:https://luma.com/pmptsonh
-DESCRIPTION:活动详情 / 报名入口: https://luma.com/pmptsonh\n活动
- 时间（已核验）: 6:30–8:30 PM PT
-END:VEVENT
-BEGIN:VEVENT
-UID:when-si-meets-agents-sglang-sf-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:[San Francisco] When SI Meets Agents: Meetup @ SGLang Summit
-LOCATION:San Francisco\; exact venue details not shown on event page\, San
-  Francisco\, United States
-URL:https://luma.com/finch-SGL
-DESCRIPTION:活动详情 / 报名入口: https://luma.com/finch-SGL\n活动
- 时间（已核验）: 1:00 PM–6:00 PM PT
-END:VEVENT
-BEGIN:VEVENT
-UID:women-in-ai-pitch-sf-fall-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
-DTSTART;VALUE=DATE:20261113
-DTEND;VALUE=DATE:20261114
-SUMMARY:[San Francisco] Women in AI Pitch Competition (San Francisco Fall 2
- 026)
-LOCATION:San Francisco\; exact location disclosed after registration\, San
-  Francisco\, United States
-URL:https://luma.com/womeninai-pitch-sf26
-DESCRIPTION:活动详情 / 报名入口: https://luma.com/womeninai-pitch-s
- f26\n活动时间（已核验）: 4:00 PM–7:30 PM UTC-08:00
-END:VEVENT
-BEGIN:VEVENT
 UID:super-demo-day-sf-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:[San Francisco] 2026 Super Demo Day
@@ -71,7 +18,7 @@ DESCRIPTION:活动详情 / 报名入口: https://luma.com/2a7wm1zs\n活动
 END:VEVENT
 BEGIN:VEVENT
 UID:africa-tech-festival-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261120
 SUMMARY:[Cape Town] Africa Tech Festival 2026
@@ -82,7 +29,7 @@ DESCRIPTION:活动详情 / 报名入口: https://africatechfestival.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:microsoft-ignite-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261121
 SUMMARY:[San Francisco] Microsoft Ignite 2026
@@ -92,7 +39,7 @@ DESCRIPTION:活动详情 / 报名入口: https://ignite.microsoft.com/
 END:VEVENT
 BEGIN:VEVENT
 UID:aihouse-vc-ama-sid-trivedi-seattle-2026-11-17@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 SUMMARY:[Seattle] Unfiltered: VC AMA with Sid Trivedi
@@ -104,7 +51,7 @@ DESCRIPTION:活动详情 / 报名入口: https://luma.com/aihouse-j054\n活
 END:VEVENT
 BEGIN:VEVENT
 UID:startup-grind-ai-demo-series-sv-2026-11@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[Menlo Park] AI Demo Series: November Edition — Startup Grind Sil
@@ -120,7 +67,7 @@ DESCRIPTION:活动详情 / 报名入口: https://luma.com/cde3rzu8\n活动
 END:VEVENT
 BEGIN:VEVENT
 UID:agent-builder-demo-night-sf-2026-11@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[San Francisco] Agent Builder Demo Night
@@ -132,7 +79,7 @@ DESCRIPTION:活动详情 / 报名入口: https://luma.com/jrphacta\n活动
 END:VEVENT
 BEGIN:VEVENT
 UID:founders-bay-hustle-fund-dinner-sf-2026-11-18@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[San Francisco] Founder/VC Dinner @ Hustle Fund
@@ -144,7 +91,7 @@ DESCRIPTION:活动详情 / 报名入口: https://luma.com/vncp798w\n活动
 END:VEVENT
 BEGIN:VEVENT
 UID:langchain-seattle-meetup-2026-11-18@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[Seattle] LangChain Seattle Meetup: An Evening with Harrison Chase
@@ -157,7 +104,7 @@ DESCRIPTION:活动详情 / 报名入口: https://luma.com/h3w0aaol\n活动
 END:VEVENT
 BEGIN:VEVENT
 UID:singapore-fintech-festival-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261121
 SUMMARY:[Singapore] Singapore FinTech Festival 2026
@@ -168,7 +115,7 @@ DESCRIPTION:活动详情: https://www.fintechfestival.sg/\n报名/RSVP: htt
 END:VEVENT
 BEGIN:VEVENT
 UID:slush-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261120
 SUMMARY:[Helsinki] Slush 2026
@@ -179,7 +126,7 @@ DESCRIPTION:活动详情 / 报名入口: https://slush.org/
 END:VEVENT
 BEGIN:VEVENT
 UID:vertical-agent-meetup-sf-2026-11-18@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:[San Francisco] Vertical Agent Meetup
@@ -192,7 +139,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:founders-bay-venture-dock-dinner-palo-alto-2026-11-19@global-conference
  -radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[Palo Alto] Founder/VC Dinner in partnership with Venture Dock
@@ -204,7 +151,7 @@ DESCRIPTION:活动详情 / 报名入口: https://luma.com/h3c040vy\n活动
 END:VEVENT
 BEGIN:VEVENT
 UID:iamcp-ai-workflows-bellevue-2026-11@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[Bellevue] IAMCP Seattle: The Future of the Microsoft Partner — T
@@ -219,7 +166,7 @@ DESCRIPTION:活动详情 / 报名入口: https://www.iamcp.org/events/Event
 END:VEVENT
 BEGIN:VEVENT
 UID:aihouse-pitch-please-13-seattle-2026-11-19@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[Seattle] Pitch Please #13
@@ -232,7 +179,7 @@ DESCRIPTION:活动详情 / 报名入口: https://luma.com/aihouse-gk85\n活
 END:VEVENT
 BEGIN:VEVENT
 UID:tech-weekend-menlo-park-2026-11@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261121
 SUMMARY:[Menlo Park] Tech Weekend November 2026 — Founder-VC Matchmaking
@@ -250,7 +197,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:aim-consulting-ai-leadership-roundtable-bellevue-2026-11@global-confere
  nce-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 SUMMARY:[Bellevue] Work\, Teams\, and Leadership in the Age of AI
@@ -264,7 +211,7 @@ DESCRIPTION:活动详情 / 报名入口: https://aimconsulting.com/events/w
 END:VEVENT
 BEGIN:VEVENT
 UID:belle-seattle-ai-startup-showcase-2026-11@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:[Bellevue] Seattle AI Startup Showcase in Nov
@@ -272,14 +219,14 @@ LOCATION:Wilburton area\; exact venue shown after registration\, Bellevue\,
   United States
 URL:https://showcase.belle.community/event/bellevue-nov-20th-2026
 DESCRIPTION:活动详情: https://luma.com/gh5ywook\n报名/RSVP: https://s
- howcase.belle.community/event/bellevue-nov-20th-2026\n活动时间（已
- 核验）: 1:00–4:30 PM PT (third-party event-directory listing\; offici
- al Luma text snapshot does not show hours)\n时间来源: https://aievents
- .now/seattle/events/seattle-ai-startup-showcase-in-nov-2026-11-20
+ howcase.belle.community/event/bellevue-nov-20th-2026\n活动时间（待
+ 核）: Time needs confirmation: GeekWire lists 1:00–4:30 PM PT\; offici
+ al Luma describes an evening event without clock times\n时间来源: http
+ s://www.geekwire.com/calendar-event/seattle-ai-startup-showcase/
 END:VEVENT
 BEGIN:VEVENT
 UID:aws-reinvent-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261205
 SUMMARY:[Las Vegas] AWS re:Invent 2026
@@ -290,7 +237,7 @@ DESCRIPTION:活动详情 / 报名入口: https://aws.amazon.com/events/rein
 END:VEVENT
 BEGIN:VEVENT
 UID:nvidia-gtc-washington-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261204
 SUMMARY:[Washington\, D.C.] NVIDIA GTC Washington\, D.C. 2026
@@ -304,7 +251,7 @@ DESCRIPTION:活动详情: https://www.nvidia.com/gtc/dc/\n报名/RSVP: http
 END:VEVENT
 BEGIN:VEVENT
 UID:neurips-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261214
 SUMMARY:[Sydney / Atlanta / Paris] NeurIPS 2026
@@ -318,7 +265,7 @@ DESCRIPTION:活动详情: https://neurips.cc/\n报名/RSVP: https://neurips
 END:VEVENT
 BEGIN:VEVENT
 UID:gitex-global-2026@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261212
 SUMMARY:[Dubai] GITEX GLOBAL 2026
@@ -335,7 +282,7 @@ DESCRIPTION:活动详情: https://www.gitex.com/\n报名/RSVP: https://visi
 END:VEVENT
 BEGIN:VEVENT
 UID:tech-frontier-ces-silicon-valley-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270114
 SUMMARY:[Las Vegas → Silicon Valley] Tech Frontier: CES 2027 + Silicon Va
@@ -355,7 +302,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ces-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270110
 SUMMARY:[Las Vegas] CES 2027
@@ -378,7 +325,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:the-ai-frontier-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270129
 SUMMARY:[Stanford] The AI Frontier 2027
@@ -393,7 +340,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-qatar-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270204
 SUMMARY:[Doha] Web Summit Qatar 2027
@@ -408,7 +355,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:aaai-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270224
 SUMMARY:[Montreal] AAAI-27
@@ -424,7 +371,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mwc-barcelona-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270305
 SUMMARY:[Barcelona] MWC Barcelona 2027
@@ -439,7 +386,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:humanx-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270311
 SUMMARY:[Las Vegas] HumanX 2027
@@ -455,7 +402,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nvidia-gtc-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270319
 SUMMARY:[San Jose] NVIDIA GTC 2027
@@ -471,7 +418,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sxsw-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270322
 SUMMARY:[Austin] SXSW Conference & Festivals 2027
@@ -488,7 +435,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:gitex-ai-latam-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270318
 SUMMARY:[São Paulo] GITEX AI LATAM 2027
@@ -504,7 +451,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:optimized-ai-conference-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270402
 SUMMARY:[Atlanta] Optimized AI Conference (OAI) 2027
@@ -521,7 +468,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:hannover-messe-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270409
 SUMMARY:[Hannover] HANNOVER MESSE 2027
@@ -536,7 +483,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:google-cloud-next-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
 SUMMARY:[Las Vegas] Google Cloud Next 2027
@@ -551,7 +498,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:auto-shanghai-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270503
 SUMMARY:[Shanghai] Auto Shanghai 2027
@@ -566,7 +513,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:agntcon-mcpcon-north-america-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270430
 SUMMARY:[San Francisco] AGNTCon + MCPCon North America 2027
@@ -585,7 +532,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:saastr-annual-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270513
 SUMMARY:[San Mateo] SaaStr AI Annual 2027
@@ -602,7 +549,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:icra-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270529
 SUMMARY:[Seoul] IEEE ICRA 2027
@@ -617,7 +564,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-vancouver-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270529
 SUMMARY:[Vancouver] Web Summit Vancouver 2027
@@ -633,7 +580,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:atxsg-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270529
 SUMMARY:[Singapore] Asia Tech x Singapore 2027
@@ -648,7 +595,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:snowflake-summit-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270611
 SUMMARY:[San Francisco] Snowflake Summit 27
@@ -663,7 +610,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-rio-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270618
 SUMMARY:[Rio de Janeiro] Web Summit Rio 2027
@@ -679,7 +626,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:vivatech-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270620
 SUMMARY:[Paris] Viva Technology 2027
@@ -694,7 +641,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:data-ai-summit-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270625
 SUMMARY:[San Francisco] Databricks Data + AI Summit 2027
@@ -711,7 +658,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:mwc-shanghai-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270626
 SUMMARY:[Shanghai] MWC Shanghai 2027
@@ -726,7 +673,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:ai-engineer-worlds-fair-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270703
 SUMMARY:[San Francisco] AI Engineer World's Fair 2027
@@ -742,7 +689,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:rss-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270712
 SUMMARY:[地点待公布] Robotics Science and Systems 2027
@@ -758,7 +705,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:web-summit-lisbon-2027@global-conference-radar
-DTSTAMP:20261113T223429Z
+DTSTAMP:20261114T165908Z
 DTSTART;VALUE=DATE:20271108
 DTEND;VALUE=DATE:20271112
 SUMMARY:[Lisbon] Web Summit Lisbon 2027
